@@ -1,5 +1,7 @@
 # Test-Case-Prioritization
 
+**Remember to unzip "Benchmarks.zip" first**
+
 ## File Discription
 1. name.txt - contain the information: Name, Email, SID <br />
 2. report/CS206_Project_Report.pdf - including experimental results and observations <br />
